@@ -1,4 +1,29 @@
 header {
-    background-color: rgb(133, 0, 0);
-    color: aliceblue
+    background-color: rgb(27, 5, 45);
+    color: rgb(188, 184, 184);
+    box-shadow: px;
+    font-weight: bold;
+    border-color: blueviolet bold 3px;
+    
 }
+.header-text{
+    color: whitesmoke;
+    box-shadow: 4px chartreuse;
+    font-weight: bold;
+}
+
+.boxes {
+    border-color: blueviolet;
+    border-style: solid;
+    padding: 6px;
+    padding-bottom: 2em;
+
+}
+
+
+
+
+.hero-image {
+    max-height: 35vh;
+}
+
